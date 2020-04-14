@@ -5,6 +5,7 @@
 "dataUrl": "Roll_N_Ball.data.unityweb",
 "wasmCodeUrl": "Roll_N_Ball.wasm.code.unityweb",
 "wasmFrameworkUrl": "Roll_N_Ball.wasm.framework.unityweb",
+"wasmSymbolsUrl": "Roll_N_Ball.wasm.symbols.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
